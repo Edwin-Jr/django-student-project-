@@ -28,6 +28,7 @@ Python, Django, HTML, CSS, Git, and GitHub
 5. Install requirements.
 6. Run database migrations.
 7. Start the development server.
+8. http://127.0.0.1:8000
 
 ## Commands
 python -m venv venv
@@ -35,11 +36,11 @@ venv\Scripts\activate
 python -m pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
-http://127.0.0.1:8000
+
 
 
 ## Challenges and Solutions
-A blank page appeared because the template files were empty or misnamed. I fixed the file names and added the content.
+ A blank page appeared because the template files were empty or misnamed. I fixed the file names and added the content.
 
 
 ## Future Improvements
