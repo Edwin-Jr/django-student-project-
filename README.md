@@ -35,12 +35,17 @@ venv\Scripts\activate
 python -m pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+http://127.0.0.1:8000
+
 
 ## Challenges and Solutions
-Describe the real problems you encountered and how you solved them.
+A blank page appeared because the template files were empty or misnamed. I fixed the file names and added the content.
+
 
 ## Future Improvements
-Describe features you would add in the future.
+A working contact form
+Database-backed projects list
+Photos for each project
 
 ## Acknowledgment
 I used ChatGPT as a learning assistant to understand Django,
