@@ -31,11 +31,11 @@ Python, Django, HTML, CSS, Git, and GitHub
 8. http://127.0.0.1:8000
 
 ## Commands
-python -m venv venv
-venv\Scripts\activate
-python -m pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
+- python -m venv venv
+- venv\Scripts\activate
+- python -m pip install -r requirements.txt
+- python manage.py migrate
+- python manage.py runserver
 
 
 
@@ -44,9 +44,9 @@ python manage.py runserver
 
 
 ## Future Improvements
-A working contact form
-Database-backed projects list
-Photos for each project
+- A working contact form
+- Database-backed projects list
+- Photos for each project
 
 ## Acknowledgment
 I used ChatGPT as a learning assistant to understand Django,
